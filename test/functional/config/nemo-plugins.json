@@ -1,0 +1,7 @@
+{
+	"plugins": {
+		"view": {
+			"module": "nemo-view"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "searchText": {
+        "locator": "#gs_lc0 input.gbqfif",
+        "type": "css"
+    },
+	"searchButton": {
+		"locator": "#gbqfbw button.gbqfb",
+		"type": "css"
+	},
+	"signIn": {
+		"locator": "#gb a[data-pid='23']",
+		"type" : "css"
+	}
+}
