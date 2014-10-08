@@ -3,7 +3,7 @@ var Nemo = require('nemo');
     //homePage = require("../page/homePage"),
 var config = {
     nemoData: {
-        targetBrowser: "firefox",
+        targetBrowser: "chrome",
         targetServer: "localhost",
         serverProps: {
             "port": 4444
